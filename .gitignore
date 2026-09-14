@@ -1,0 +1,9 @@
+*.env
+bocor.env
+aman.txt
+vault/*.locked
+__pycache__/
+BACKUP*
+*.bak
+hunte
+.claude/
