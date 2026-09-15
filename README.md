@@ -1,12 +1,17 @@
-# 🏛️ HEXALOGY LAB - White Hacker HP 20/20 SULTAN MAX
+# 🛡️ Lab White Hacker - HP ONLY - Council 20/20 SULTAN MAX
 
-![Council](https://img.shields.io/badge/Council-20%2F20_SULTAN_MAX-brightgreen)
-![Tor](https://img.shields.io/badge/Tor-185.220.101.5_LIVE-blue)
-![Mobile](https://img.shields.io/badge/Platform-Termux_HP_ONLY-orange)
-![MITRE](https://img.shields.io/badge/MITRE-T1110_T1078_T1027-red)
+> **Berproses dengan sistem tercanggih, akurat, efektif, output tetap white hacker terbaik - HANYA DARI HP**
 
-### Berproses dgn sistem tercanggih
-Tiap proses gunakan metode council yg akurat, efektif dan tercanggih
-Output menjadi white hacker yg efektif, akurat dan terbaik dari HP
+![Council](https://img.shields.io/badge/COUNCIL-20%2F20%20SULTAN%20MAX-red?style=for-the-badge)
+![HP ONLY](https://img.shields.io/badge/PLATFORM-TERMUX%20HP%20ONLY-black?style=for-the-badge)
+![HRD PASS](https://img.shields.io/badge/HRD-BERSIH-brightgreen?style=for-the-badge)
 
-## 📊 COUNCIL ULTRA VERIFICATION
+## 🏛️ COUNCIL WAR ROOM 07 - LIVE AUDIT
+
+Sistem dewan juri yang audit 7 pos ronda lab. Bukan asal push.
+
+```bash
+bash council-ultra.sh
+bash 07-council-war-room/hp-health.sh
+bash hexalogy-push.sh
+# => DONE REAL! 20/20
