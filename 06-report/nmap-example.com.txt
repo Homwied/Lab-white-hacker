@@ -1,0 +1,14 @@
+# Nmap 7.991 scan initiated Tue Sep 15 16:17:08 2026 as: nmap -sV --top-ports 50 -oN /data/data/com.termux/files/home/lab-hacker-putih/06-report/nmap-example.com.txt example.com
+Nmap scan report for example.com (172.66.147.243)
+Host is up (0.015s latency).
+Other addresses for example.com (not scanned): 2606:4700:10::6814:179a 2606:4700:10::ac42:93f3 104.20.23.154
+Not shown: 43 filtered tcp ports (no-response), 2 filtered tcp ports (host-unreach)
+PORT     STATE  SERVICE  VERSION
+80/tcp   open   http     Cloudflare http proxy
+113/tcp  closed ident
+443/tcp  open   ssl/http Cloudflare http proxy
+8080/tcp open   http     Cloudflare http proxy
+8443/tcp open   ssl/http Cloudflare http proxy
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Sep 15 16:17:52 2026 -- 1 IP address (1 host up) scanned in 43.87 seconds

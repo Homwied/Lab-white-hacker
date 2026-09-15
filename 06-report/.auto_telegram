@@ -1,0 +1,1 @@
+source ~/.council_telegram.conf; curl -s -X POST "https://api.telegram.org/bot$TOKEN/sendDocument" -F chat_id="$CHAT" -F document=@"$F" -F caption="AUTO $(basename $F)" > /dev/null

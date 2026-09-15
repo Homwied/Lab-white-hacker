@@ -1,0 +1,1 @@
+dirsearch: /admin /login /backup /config checked

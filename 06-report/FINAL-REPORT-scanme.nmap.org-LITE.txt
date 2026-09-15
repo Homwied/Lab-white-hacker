@@ -1,0 +1,22 @@
+# FINAL V8 LITE scanme.nmap.org - Tue Sep 15 17:03:47 WIB 2026
+## SCAN
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-09-15 17:03 +0700
+Warning: Hostname scanme.nmap.org resolves to 2 IPs. Using 45.33.32.156.
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.28s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 43 closed tcp ports (conn-refused)
+PORT    STATE    SERVICE    VERSION
+22/tcp  open     ssh        OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
+25/tcp  filtered smtp
+80/tcp  open     http       Apache httpd 2.4.7 ((Ubuntu))
+143/tcp filtered imap
+465/tcp filtered smtps
+587/tcp filtered submission
+993/tcp filtered imaps
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.40 seconds
+## OSINT V7 - beda sama SCAN
+SCAN = cek port 80 open kayak di foto lu, OSINT = cek email/sosmed pemilik scanme.nmap.org

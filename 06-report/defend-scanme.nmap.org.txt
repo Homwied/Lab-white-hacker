@@ -1,0 +1,1 @@
+[EMPTY REPORT - generated 15 Sep - defend-scanme.nmap.org.txt - no data from target scanme.nmap.org]
