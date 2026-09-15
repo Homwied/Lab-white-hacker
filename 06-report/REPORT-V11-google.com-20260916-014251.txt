@@ -1,0 +1,30 @@
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-09-16 01:42 +0700
+Warning: Hostname google.com resolves to 5 IPs. Using 216.239.38.120.
+Nmap scan report for google.com (216.239.38.120)
+Host is up (0.016s latency).
+Other addresses for google.com (not scanned): 2404:6800:4003:c03::65 2404:6800:4003:c03::8b 2404:6800:4003:c03::64 2404:6800:4003:c03::8a
+rDNS record for 216.239.38.120: any-in-2678.1e100.net
+
+PORT     STATE    SERVICE
+21/tcp   filtered ftp
+22/tcp   filtered ssh
+23/tcp   filtered telnet
+25/tcp   filtered smtp
+53/tcp   filtered domain
+80/tcp   open     http
+110/tcp  filtered pop3
+111/tcp  filtered rpcbind
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+143/tcp  filtered imap
+443/tcp  open     https
+445/tcp  filtered microsoft-ds
+993/tcp  filtered imaps
+995/tcp  filtered pop3s
+1723/tcp filtered pptp
+3306/tcp filtered mysql
+3389/tcp filtered ms-wbt-server
+5900/tcp filtered vnc
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 1.66 seconds
