@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+DIR="$(cd "$(dirname "$0")" && pwd)"
+exec python "$DIR/main_v12.py"
