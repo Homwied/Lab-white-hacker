@@ -7,3 +7,12 @@ BACKUP*
 *.bak
 hunte
 .claude/
+# V12 private/runtime data
+00-config/targets.allow
+06-report/INITIAL-INTAKE-*
+06-report/TOOLS-HEALTH-*
+09-audit-log/*
+!09-audit-log/.gitkeep
+*.bak-*
+__pycache__/
+*.pyc
