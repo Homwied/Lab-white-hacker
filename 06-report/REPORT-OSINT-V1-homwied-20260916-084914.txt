@@ -1,0 +1,27 @@
+Scanning username: homwied
+Tanggal: 20260916-084914 - Indralaya
+=========================================
+[FOUND] Facebook : https://facebook.com/homwied (200)
+[NOT FOUND] SoundCloud : https://soundcloud.com/homwied (404)
+[UNKNOWN 403] GitLab : https://gitlab.com/homwied
+[NOT FOUND] Twitter/X : https://x.com/homwied (404)
+[FOUND] Telegram : https://t.me/homwied (200)
+[FOUND] Steam : https://steamcommunity.com/id/homwied (200)
+[FOUND] Instagram : https://instagram.com/homwied (200)
+[NOT FOUND] Dribbble : https://dribbble.com/homwied (404)
+[UNKNOWN 403] Reddit : https://reddit.com/user/homwied
+[NOT FOUND] Spotify : https://open.spotify.com/user/homwied (404)
+[FOUND] Twitch : https://twitch.tv/homwied (200)
+[FOUND] GitHub : https://github.com/homwied (200)
+[NOT FOUND] YouTube : https://youtube.com/@homwied (404)
+[FOUND] TikTok : https://tiktok.com/@homwied (200)
+[UNKNOWN 403] Medium : https://medium.com/@homwied
+[FOUND] LinkedIn : https://linkedin.com/in/homwied (200)
+[NOT FOUND] Blogger : https://homwied.blogspot.com (404)
+[NOT FOUND] Behance : https://behance.net/homwied (404)
+[NOT FOUND] Wattpad : https://wattpad.com/user/homwied (404)
+[FOUND] Pinterest : https://pinterest.com/homwied (200)
+=========================================
+>>> HASIL OSINT V1: 9 KETEMU | 8 GAK ADA
+>>> Username: homwied
+>>> Daftar ketemu: Facebook, Telegram, Steam, Instagram, Twitch, GitHub, TikTok, LinkedIn, Pinterest,
