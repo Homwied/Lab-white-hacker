@@ -16,3 +16,13 @@ hunte
 *.bak-*
 __pycache__/
 *.pyc
+
+# Security lab - exclude risky folders
+03-exploit/*
+!03-exploit/README.md
+04-persist/*
+!04-persist/README.md
+05-exfil/*
+!05-exfil/README.md
+05-ransomware-lab/*
+!05-ransomware-lab/README.md
