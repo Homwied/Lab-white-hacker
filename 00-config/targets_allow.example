@@ -1,0 +1,12 @@
+# ============================================================
+#  TARGET WHITELIST - TEMPLATE
+#  Copy file ini jadi targets_allow, lalu sesuaikan
+#  (targets_allow TIDAK di-push ke GitHub demi keamanan)
+# ============================================================
+
+scanme.nmap.org
+testphp.vulnweb.com
+example.com
+example.org
+127.0.0.1
+localhost
