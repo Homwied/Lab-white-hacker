@@ -1,0 +1,22 @@
+{
+  "timestamp": "20260918-214911",
+  "score": 37,
+  "verdict": "MEDIUM",
+  "hits": [
+    {
+      "technique": "T1595",
+      "name": "Active Scanning",
+      "count": 6,
+      "severity": 3
+    },
+    {
+      "technique": "T1486",
+      "name": "Data Encrypted",
+      "count": 3,
+      "severity": 10
+    }
+  ],
+  "sources": [
+    "/data/data/com.termux/files/home/lab-hacker-putih/09-audit-log/events.log"
+  ]
+}
