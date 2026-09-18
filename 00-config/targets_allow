@@ -1,0 +1,27 @@
+# ============================================================
+#  TARGET WHITELIST - HANYA TARGET LEGAL
+#  Semua scan WAJIB ada di list ini, kalau tidak = DIBLOKIR
+# ============================================================
+
+# --- Nmap resmi kasih izin scan ---
+scanme.nmap.org
+
+# --- Acunetix demo vuln site ---
+testphp.vulnweb.com
+
+# --- IANA reserved (domain contoh) ---
+example.com
+example.org
+example.net
+
+# --- Localhost (aman total) ---
+127.0.0.1
+localhost
+
+# --- DILARANG (JANGAN di-comment-in) ---
+# google.com          → ToS Google larang
+# facebook.com
+# semua domain .go.id
+# semua domain .ac.id
+# semua domain .mil
+# semua IP publik tanpa izin tertulis
