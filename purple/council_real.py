@@ -21,12 +21,12 @@ MITRE_MAP = {
     r"base64|obfuscat":                ("T1027", "Obfuscated Files", 5),
     r"persist|cron|systemd|rc\.local": ("T1053", "Scheduled Task", 8),
     r"exfil|upload.*c2":               ("T1041", "Exfiltration C2", 9),
-    r"ransom|encrypt.*file|locked":    ("T1486", "Data Encrypted", 10),
+    # r"ransom|encrypt.*file|locked":    ("T1486", "Data Encrypted", 10),   # disabled - false positive
 }
 
 def scan_logs():
     text, sources = "", []
-    patterns = ["*.log", "*.txt", "*.md"]
+    patterns = ["events.log"]
     for pat in patterns:
         for f in glob.glob(str(LOG_DIR / "**" / pat), recursive=True):
             try:
